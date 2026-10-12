@@ -1,0 +1,5 @@
+2026-10-12 INFO Application started
+2026-10-12 ERROR Database connection failed
+2026-10-12 WARN Retry scheduled
+2026-10-12 ERROR Request timed out
+2026-10-12 INFO Application recovered
